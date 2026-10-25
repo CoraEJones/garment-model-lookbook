@@ -1,0 +1,4 @@
+interface:
+  display_name: "实拍服装模特提案"
+  short_description: "保留样衣材质与光泽，生成自然窗光灰背景三视图和中英双语极简 PDF"
+  default_prompt: "使用 $garment-model-lookbook，忠实保留这些实拍样衣的结构、材质、光泽、颜色和花纹，按自然窗光与当前人物预设制作正背侧搭配图，并输出每款一页、仅款号和中英双语视角的16:9 PDF。"
